@@ -1,0 +1,6 @@
+[submodule "su20-proj3-starter"]
+	path = su20-proj3-starter
+	url = https://github.com/61c-teach/su20-proj3-starter.git
+[submodule "cs61c"]
+	path = cs61c
+	url = https://github.com/maksir98/cs61c.git
