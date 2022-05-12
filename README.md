@@ -34,3 +34,13 @@
 	 PASSED test: regfile-zero test
  Passed 4/4 tests
 ```
+
+3. addi single
+renamed `cpu_addi_single.circ` to `cpu.circ`
+```
+ $ python3 test_runner.py part_a addi_single 
+ Running tests for part_a/addi_single...
+	 PASSED test: cpu-addi-single test
+ Passed 1/1 tests
+
+```
