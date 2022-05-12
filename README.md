@@ -42,5 +42,13 @@ renamed `cpu_addi_single.circ` to `cpu.circ`
  Running tests for part_a/addi_single...
 	 PASSED test: cpu-addi-single test
  Passed 1/1 tests
+```
 
+4. addi pipeline
+renamed `cpu_addi_pipe.circ` to `cpu.circ`
+```
+ $ python3 test_runner.py part_a addi_pipelined
+ Running tests for part_a/addi_pipelined...
+	 PASSED test: cpu-addi-pipelined test
+ Passed 1/1 tests
 ```
